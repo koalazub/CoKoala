@@ -1,207 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd38b186-c784-45d0-8cf3-621d552dab92" name="Default Changelist" comment="Added in Merrikh's Bolide video content&#10;&#10;- Modified styles.css/scss padding for work-pieces component&#10;- Text modified for mobile view">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CoKoala.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/angular-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/elali.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/3rdpartylicenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/Videos/mp4/DishPigDemo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/Videos/mp4/FlippingTimePortfolio.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/Videos/mp4/LUT Post Processing.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/Videos/mp4/Merrikh's Bolide Full Demo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Ali Portfolio Resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/BreakingThings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/CoKoala_logo_06_B&amp;W03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Icons/CoKoalaFavicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Icons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Portfolio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Profile.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/assets/images/Profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/es2015-polyfills.1e04665e16f944715fd2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/main.b37276f0f9b7561f0894.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/polyfills.8bbb231b43165d65d357.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/runtime.26209474bfa8dc87a77c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/scripts.39d1d4b14a13024b99df.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/CoKoala/styles.00b9c3f4494db5a46264.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/e2e/src/app.e2e-spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/e2e/src/app.e2e-spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/e2e/src/app.po.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/e2e/src/app.po.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app-routing.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app-routing.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/app.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/home/home.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/home/home.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/home/home.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/home/home.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/nav/nav.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/nav/nav.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/nav/nav.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/nav/nav.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/resume/resume.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/resume/resume.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/resume/resume.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/resume/resume.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/work-pieces/work-pieces.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/work-pieces/work-pieces.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/work-pieces/work-pieces.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/app/work-pieces/work-pieces.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/environments/environment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/environments/environment.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/environments/environment.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/environments/environment.prod.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/polyfills.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/out-tsc/src/test.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app.e2e-spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app.e2e-spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app.po.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app.po.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app-routing.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app-routing.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app-routing.module.tns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app-routing.module.tns.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.component.tns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.component.tns.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.module.tns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/app.module.tns.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/auto-generated/auto-generated.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/auto-generated/auto-generated.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/home/AboutMe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/home/AboutMe.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/home/home.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/home/home.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/resume/resume.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/resume/resume.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/work-pieces/work-pieces.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/app/work-pieces/work-pieces.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/environments/environment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/environments/environment.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/environments/environment.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/environments/environment.prod.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/main.tns.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/main.tns.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/app/polyfills.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/app.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/app.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/app.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/app.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/home/home.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/home/home.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/home/home.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/home/home.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/resume/resume.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/resume/resume.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/resume/resume.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/resume/resume.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/work-pieces/work-pieces.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/work-pieces/work-pieces.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/work-pieces/work-pieces.component.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/app/work-pieces/work-pieces.component.spec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/polyfills.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out-tsc/spec/test.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/nav/nav.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/resume/resume.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/resume/resume.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/resume/resume.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/resume/resume.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Videos/mp4/DishPigDemo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Videos/mp4/FlippingTimePortfolio.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Videos/mp4/LUT Post Processing.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/Videos/mp4/Merrikh's Bolide Full Demo.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Ali Portfolio Resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/BreakingThings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/CoKoala_logo_06_B&amp;W03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Icons/CoKoalaFavicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Icons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Portfolio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Profile.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+    <list default="true" id="bd38b186-c784-45d0-8cf3-621d552dab92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/elali.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/elali.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -212,16 +22,82 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="68">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#main#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#main#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,14 +149,15 @@
         <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/src/app/work-pieces/workContainers.component.ts" />
         <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.scss" />
-        <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/src/app/resume/resume.component.html" />
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/src/app/nav/nav.component.html" />
-        <option value="$PROJECT_DIR$/src/styles.scss" />
         <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" />
         <option value="$PROJECT_DIR$/.gitignore.txt" />
+        <option value="$PROJECT_DIR$/src/app/nav/nav.component.spec.ts" />
+        <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/src/styles.scss" />
+        <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" />
       </list>
     </option>
   </component>
@@ -304,9 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -378,6 +252,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,6 +352,8 @@
       <workItem from="1554209115077" duration="1428000" />
       <workItem from="1554210923963" duration="51000" />
       <workItem from="1554211295052" duration="766000" />
+      <workItem from="1554212749162" duration="1503000" />
+      <workItem from="1554218431706" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="- Home and Resume setup&#10;- Work Pieces not usable yet">
       <created>1553748407516</created>
@@ -574,11 +453,27 @@
       <option name="project" value="LOCAL" />
       <updated>1554051709213</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added in Merrikh's Bolide video content&#10;&#10;- Modified styles.css/scss padding for work-pieces component&#10;- Text modified for mobile view">
+      <created>1554215217202</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554215217202</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75174000" />
+    <option name="totallyTimeSpent" value="78252000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
@@ -600,23 +495,23 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49124727" weight="0.2966457" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49781182" weight="0.32914045" />
+      <window_info anchor="bottom" id="TypeScript" order="7" sideWeight="0.4989059" weight="0.32914045" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4890591" visible="true" weight="0.2966457" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51531726" side_tool="true" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5109409" side_tool="true" visible="true" weight="0.2966457" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4846827" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.48249453" weight="0.32914045" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49781182" weight="0.32914045" />
       <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" order="15" />
+      <window_info anchor="bottom" id="Logcat" order="15" sideWeight="0.4989059" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32932165" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Device File Explorer" order="9" side_tool="true" />
@@ -797,15 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@angular/router/src/directives/router_link.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
@@ -869,9 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -932,41 +815,6 @@
     <entry file="file://$PROJECT_DIR$/src/app/resume/resume.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="111" column="38" lean-forward="true" selection-start-line="111" selection-start-column="38" selection-end-line="111" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#0;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#main#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#4;n#main#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -981,10 +829,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="68">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#main#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#main#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

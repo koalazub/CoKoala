@@ -79,16 +79,9 @@ a {
   border-radius: 30%;
 }
 
-.clearFix::after {
-  content: "";
-  clear: both;
-}
-
 .center {
   display: block;
-  margin-right: auto;
   width: 10%;
-  margin-left: auto;
 }
 
 .font {
@@ -100,9 +93,13 @@ a {
   font-weight: bold;
 }
 
-.alignShift {
+.Align {
   text-align: left;
   padding: 3%;
+}
+
+.ParaGap {
+  margin: 10% 15%;
 }
 
 .shiftDown {
