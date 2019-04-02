@@ -3,6 +3,8 @@ import { Component } from '@angular/core';
 var NavComponent = /** @class */ (function () {
     function NavComponent() {
         this.MyName = 'Ali El Ali';
+      this.Resume = 'Resume';
+      this.WorkPieces = 'Work Pieces';
     }
     NavComponent.prototype.ngOnInit = function () {
     };

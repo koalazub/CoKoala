@@ -4,14 +4,19 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd38b186-c784-45d0-8cf3-621d552dab92" name="Default Changelist" comment="">
+    <list default="true" id="bd38b186-c784-45d0-8cf3-621d552dab92" name="Default Changelist" comment="Emboldened titles for that extra POP!">
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/elali.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/elali.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CoKoala/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/CoKoala/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CoKoala/main.b37276f0f9b7561f0894.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CoKoala/styles.00b9c3f4494db5a46264.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/out-tsc/app/app/nav/nav.component.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/out-tsc/spec/app/nav/nav.component.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/nav.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -53,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+            <state relative-caret-position="1581">
+              <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -76,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="255">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#main#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#main#0;n#!!top" expanded="true" />
@@ -87,6 +92,24 @@
                 <element signature="n#style#0;n#div#3;n#main#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#4;n#main#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -130,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/app/nav/nav.component.ts" />
         <option value="$PROJECT_DIR$/src/assets/Descriptors/AboutMe.ts" />
         <option value="$PROJECT_DIR$/src/app/home/AboutMe.ts" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
@@ -151,12 +173,13 @@
         <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.scss" />
         <option value="$PROJECT_DIR$/src/app/resume/resume.component.html" />
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/src/app/nav/nav.component.html" />
         <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.ts" />
         <option value="$PROJECT_DIR$/.gitignore.txt" />
         <option value="$PROJECT_DIR$/src/app/nav/nav.component.spec.ts" />
         <option value="$PROJECT_DIR$/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/src/styles.scss" />
+        <option value="$PROJECT_DIR$/src/app/nav/nav.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/nav/nav.component.html" />
         <option value="$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html" />
       </list>
     </option>
@@ -181,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,9 +276,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +376,8 @@
       <workItem from="1554210923963" duration="51000" />
       <workItem from="1554211295052" duration="766000" />
       <workItem from="1554212749162" duration="1503000" />
-      <workItem from="1554218431706" duration="1575000" />
+      <workItem from="1554218431706" duration="3137000" />
+      <workItem from="1554221641731" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="- Home and Resume setup&#10;- Work Pieces not usable yet">
       <created>1553748407516</created>
@@ -460,11 +484,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554215217202</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Adjusted margins to make it more palpable">
+      <created>1554220518881</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554220518881</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78252000" />
+    <option name="totallyTimeSpent" value="80279000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,7 +510,7 @@
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21006565" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21006565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -497,12 +528,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49781182" weight="0.32914045" />
       <window_info anchor="bottom" id="TypeScript" order="7" sideWeight="0.4989059" weight="0.32914045" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4890591" visible="true" weight="0.2966457" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.487965" weight="0.2966457" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5109409" side_tool="true" visible="true" weight="0.2966457" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50328225" side_tool="true" visible="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.48249453" weight="0.32914045" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49781182" weight="0.32914045" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" sideWeight="0.49671772" visible="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Android Profiler" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="15" sideWeight="0.4989059" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -585,7 +616,9 @@
     <MESSAGE value="Added meta headers for mobile browser compatibility" />
     <MESSAGE value="Caught and squashed bug with screen width being set to 50%&#10;&#10;Culprit was a silly global style class that I had forgotten to obviate from the sheet. &#10;&#10;Silly!" />
     <MESSAGE value="Added in Merrikh's Bolide video content&#10;&#10;- Modified styles.css/scss padding for work-pieces component&#10;- Text modified for mobile view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added in Merrikh's Bolide video content&#10;&#10;- Modified styles.css/scss padding for work-pieces component&#10;- Text modified for mobile view" />
+    <MESSAGE value="Adjusted margins to make it more palpable" />
+    <MESSAGE value="Emboldened titles for that extra POP!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Emboldened titles for that extra POP!" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -755,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/resume/resume.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -793,13 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -837,12 +856,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#71#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1581">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -858,17 +875,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/nav/nav.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/work-pieces/work-pieces.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#main#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#main#0;n#!!top" expanded="true" />
