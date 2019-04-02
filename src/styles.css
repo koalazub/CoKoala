@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+body, html {
+  height: 100%;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Montserrat", serif;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 1.3em;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container a {
+  color: #fefffe;
+}
+
+.box {
+  width: 100%;
+}
+
+@media screen and (min-width: 450px) {
+  .firstElement {
+    width: 25%;
+  }
+
+  .secondElement {
+    width: 75%;
+  }
+}
+@media screen and (min-width: 550px) {
+  .thirdElement, .fourthElement {
+    width: 25%;
+  }
+
+  .fifthElement {
+    width: 75%;
+  }
+}
+/*#region HeaderBorder */
+#ip1 {
+  border-radius: 18px;
+  background: #609;
+  padding: 20px;
+  width: 200px;
+  height: 15px;
+}
+
+#ip2 {
+  border-radius: 25px;
+  border: 2px solid #609;
+  padding: 20px;
+  width: 300px;
+  height: 15px;
+}
+
+#ip3 {
+  border-radius: 15px 50px 30px 5px;
+  background: #609;
+  padding: 20px;
+  width: 200px;
+  height: 15px;
+}
+
+/*#endregion*/
+/*#region ImageBorder*/
+.imgCircle {
+  position: relative;
+  float: left;
+  padding: 10px;
+  border-radius: 30%;
+}
+
+.clearFix::after {
+  content: "";
+  clear: both;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  width: 10%;
+  margin-left: auto;
+}
+
+.font {
+  font-family: "Montserrat", sans-serif;
+}
+
+.fontAssertive {
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+}
+
+.alignShift {
+  text-align: left;
+  padding: 3%;
+}
+
+.shiftDown {
+  padding-top: 0;
+  background: #8eacbb;
+}
+
+/*#endregion*/
+/*#region Justification */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  text-align: center;
+  margin: 10px;
+}
+
+/*#endregion*/
+
+/*# sourceMappingURL=styles.css.map */
