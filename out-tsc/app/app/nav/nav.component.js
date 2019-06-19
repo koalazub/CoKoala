@@ -1,5 +1,6 @@
+import {Component} from '@angular/core';
 import * as tslib_1 from "tslib";
-import { Component } from '@angular/core';
+
 var NavComponent = /** @class */ (function () {
     function NavComponent() {
         this.MyName = 'Ali El Ali';

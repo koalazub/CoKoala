@@ -1,7 +1,9 @@
+import {Component} from '@angular/core';
 import * as tslib_1 from "tslib";
-import { Component } from '@angular/core';
+
 var HomeComponent = /** @class */ (function () {
     function HomeComponent() {
+      this.baseBG = "../../assets/images/DirtyGreyBG.jpg";
     }
     HomeComponent.prototype.ngOnInit = function () {
     };

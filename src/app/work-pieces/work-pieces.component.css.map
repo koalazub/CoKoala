@@ -1,10 +1,1 @@
-{
-  "version": 3,
-  "sourceRoot": "",
-  "sources": [
-    "work-pieces.component.scss"
-  ],
-  "names": [],
-  "mappings": "AACA;EACE;EACA;;;AAIF;EACE;EACA;;;AAGF;EACE",
-  "file": "work-pieces.component.css"
-}
+{"version":3,"sourceRoot":"","sources":["work-pieces.component.scss"],"names":[],"mappings":"AACA;EACE;EACA;;;AAIF;EACE;EACA;;;AAGF;EACE;;;AAGF;EACE;EACA;EACA","file":"work-pieces.component.css"}

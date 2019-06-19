@@ -8,6 +8,8 @@ import { ResumeComponent } from './resume/resume.component';
 import { WorkPiecesComponent } from './work-pieces/work-pieces.component';
 import { HomeComponent } from './home/home.component';
 import { NgxExtendedPdfViewerModule } from 'ngx-extended-pdf-viewer';
+import { BackgroundImageComponent } from './background-image/background-image.component';
+import { MatButtonModule, MatCardModule } from '@angular/material';
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
@@ -18,12 +20,15 @@ var AppModule = /** @class */ (function () {
                 NavComponent,
                 ResumeComponent,
                 WorkPiecesComponent,
-                HomeComponent
+                HomeComponent,
+                BackgroundImageComponent
             ],
             imports: [
                 BrowserModule,
                 AppRoutingModule,
                 NgxExtendedPdfViewerModule,
+                MatButtonModule,
+                MatCardModule,
             ],
             providers: [],
             bootstrap: [AppComponent]

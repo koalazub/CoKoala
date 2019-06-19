@@ -1,11 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
-body, html {
-  height: 100%;
-  margin: 0 auto;
-}
-
 body {
-  font-family: "Montserrat", serif;
+  font-family: "Helvetica", Now, serif !important;
   font-size: 18px;
 }
 
@@ -13,115 +7,37 @@ a {
   text-decoration: none;
 }
 
-.container {
-  width: 100%;
-  margin: 0 auto;
+.NavContainer {
+  width: auto;
   padding: 1.3em;
-  display: flex;
-  flex-wrap: wrap;
-  grid-template-columns: 30% auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
 }
-.container a {
+.NavContainer a {
   color: #fefffe;
 }
 
-.box {
-  width: 100%;
-}
-
-@media screen and (min-width: 450px) {
-  .firstElement {
-    width: 25%;
-  }
-
-  .secondElement {
-    width: 75%;
-  }
-}
-@media screen and (min-width: 550px) {
-  .thirdElement, .fourthElement {
-    width: 25%;
-  }
-
-  .fifthElement {
-    width: 75%;
-  }
-}
-/*#region HeaderBorder */
-#ip1 {
-  border-radius: 18px;
-  background: #609;
-  padding: 20px;
-  width: 200px;
-  height: 15px;
-}
-
-#ip2 {
-  border-radius: 25px;
-  border: 2px solid #609;
-  padding: 20px;
-  width: 300px;
-  height: 15px;
-}
-
-#ip3 {
-  border-radius: 15px 50px 30px 5px;
-  background: #609;
-  padding: 20px;
-  width: 200px;
-  height: 15px;
-}
-
-/*#endregion*/
-/*#region ImageBorder*/
-.imgCircle {
+.ImgCircle {
   position: relative;
   float: left;
-  padding: 10px;
+  padding: 5%;
   border-radius: 30%;
 }
 
-.center {
-  display: block;
-  width: 10%;
+@font-face {
+  font-family: "Helvetica", Now;
+  src: url("/assets/Font/Helvetica Now Display Black.otf");
 }
-
-.font {
-  font-family: "Montserrat", sans-serif;
-}
-
-.fontAssertive {
-  font-family: "Montserrat", serif;
-  font-weight: bold;
-}
-
-.Align {
-  text-align: left;
-  padding: 3%;
-}
-
-.ParaGap {
+.BodyTextFormat {
   margin: 10% 15%;
+  z-index: 10;
+  text-align: left;
+  color: #fefffe;
 }
 
-.shiftDown {
-  padding-top: 0;
-  background: #8eacbb;
+.ExpandBody {
+  height: 1920px;
+  width: 100%;
 }
-
-/*#endregion*/
-/*#region Justification */
-.main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.section {
-  text-align: center;
-  margin: 10px;
-}
-
-/*#endregion*/
 
 /*# sourceMappingURL=styles.css.map */
