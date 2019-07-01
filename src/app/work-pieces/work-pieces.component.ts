@@ -9,6 +9,7 @@ export class WorkPiecesComponent implements OnInit {
 
   ConstructionSrc = '../../assets/images/CoKoala_logo_06_B&W03.png';
   PortfolioOverview: 'Portfolio Overview';
+  public baseBG = '../assets/images/DirtyGreyBG.jpg';
 
   constructor() {
   }
@@ -16,5 +17,8 @@ export class WorkPiecesComponent implements OnInit {
   ngOnInit() {
   }
 
+  InsertWorkPiecesTemplate() {
+
+  }
 }
 

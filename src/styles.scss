@@ -1,5 +1,4 @@
 
-
 body {
   font-family: 'Helvetica', Now, serif !important;
   font-size: 18px;
@@ -10,7 +9,6 @@ a {
 }
 
 .NavContainer {
-  width: auto;
   padding: 1.3em;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
@@ -21,8 +19,6 @@ a {
 }
 
 .ImgCircle {
-
-  position: relative;
   float: left;
   padding: 5%;
   border-radius: 30%
@@ -34,13 +30,24 @@ a {
 }
 
 .BodyTextFormat {
-  margin: 10% 15%;
+  padding: 20% 20%;
   z-index: 10;
   text-align: left;
   color: #fefffe;
 }
 
-.ExpandBody {
-  height: 1920px;
+.SetBgParameters {
+  height: 100%;
   width: 100%;
+  background: no-repeat fixed center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 10rem;
+}
+
+main {
+  text-align: center;
+  position: relative;
 }

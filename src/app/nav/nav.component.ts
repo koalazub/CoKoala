@@ -9,7 +9,7 @@ export class NavComponent implements OnInit {
 
   MyName = 'Ali El Ali';
   Resume = 'Resume';
-  WorkPieces = 'Work Pieces';
+  WorkPieces = 'Projects';
 
   constructor() {
   }

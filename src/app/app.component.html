@@ -1,9 +1,12 @@
-<div [ngStyle]="{'background-image': 'url('+ baseBG +')'}" class="bg">
-<head>
-
-</head>
-<app-nav></app-nav>
-<section>
-<router-outlet></router-outlet>
-</section>
+<div>
+  <div>
+    <head>
+    </head>
+    <app-nav></app-nav>
+    <section>
+      <div [@routeAnimations]="prepareRoute(outlet)" class="content">
+        <router-outlet #outlet="outlet"></router-outlet>
+      </div>
+    </section>
+</div>
 </div>

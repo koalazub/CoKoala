@@ -1,1 +1,10 @@
-{"version":3,"file":"main.tns.js","sourceRoot":"","sources":["../../src/main.tns.ts"],"names":[],"mappings":"AAAA,0GAA0G;AAC1G,OAAO,EAAC,2BAA2B,EAAC,MAAM,+BAA+B,CAAC;AAE1E,OAAO,EAAC,SAAS,EAAC,MAAM,kBAAkB,CAAC;AAE3C,yJAAyJ;AACzJ,8HAA8H;AAC9H,gJAAgJ;AAChJ,mFAAmF;AACnF,2BAA2B,EAAE,CAAC,eAAe,CAAC,SAAS,CAAC,CAAC"}
+{
+  "version": 3,
+  "file": "main.tns.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../src/main.tns.ts"
+  ],
+  "names": [],
+  "mappings": "AAAA,0GAA0G;AAC1G,OAAO,EAAC,2BAA2B,EAAC,MAAM,+BAA+B,CAAC;AAE1E,OAAO,EAAC,SAAS,EAAC,MAAM,kBAAkB,CAAC;AAE3C,yJAAyJ;AACzJ,8HAA8H;AAC9H,gJAAgJ;AAChJ,mFAAmF;AACnF,2BAA2B,EAAE,CAAC,eAAe,CAAC,SAAS,CAAC,CAAC"
+}

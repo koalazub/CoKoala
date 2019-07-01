@@ -1,1 +1,10 @@
-{"version":3,"file":"app.component.tns.js","sourceRoot":"","sources":["../../../src/app/app.component.tns.ts"],"names":[],"mappings":";AAAA,OAAO,EAAC,SAAS,EAAC,MAAM,eAAe,CAAC;AAOxC;IAAA;IACA,CAAC;IADY,YAAY;QALxB,SAAS,CAAC;YACT,QAAQ,EAAE,UAAU;YACpB,WAAW,EAAE,sBAAsB;SACpC,CAAC;OAEW,YAAY,CACxB;IAAD,mBAAC;CAAA,AADD,IACC;SADY,YAAY"}
+{
+  "version": 3,
+  "file": "app.component.tns.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../../src/app/app.component.tns.ts"
+  ],
+  "names": [],
+  "mappings": ";AAAA,OAAO,EAAC,SAAS,EAAC,MAAM,eAAe,CAAC;AAOxC;IAAA;IACA,CAAC;IADY,YAAY;QALxB,SAAS,CAAC;YACT,QAAQ,EAAE,UAAU;YACpB,WAAW,EAAE,sBAAsB;SACpC,CAAC;OAEW,YAAY,CACxB;IAAD,mBAAC;CAAA,AADD,IACC;SADY,YAAY"
+}

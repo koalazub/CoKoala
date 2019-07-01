@@ -9,32 +9,33 @@ import { WorkPiecesComponent } from './work-pieces/work-pieces.component';
 import { HomeComponent } from './home/home.component';
 import { NgxExtendedPdfViewerModule } from 'ngx-extended-pdf-viewer';
 import { BackgroundImageComponent } from './background-image/background-image.component';
-import { MatButtonModule, MatCardModule } from '@angular/material';
-var AppModule = /** @class */ (function () {
-    function AppModule() {
-    }
-    AppModule = tslib_1.__decorate([
-        NgModule({
-            declarations: [
-                AppComponent,
-                NavComponent,
-                ResumeComponent,
-                WorkPiecesComponent,
-                HomeComponent,
-                BackgroundImageComponent
-            ],
-            imports: [
-                BrowserModule,
-                AppRoutingModule,
-                NgxExtendedPdfViewerModule,
-                MatButtonModule,
-                MatCardModule,
-            ],
-            providers: [],
-            bootstrap: [AppComponent]
-        })
-    ], AppModule);
-    return AppModule;
-}());
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+const appRoutes = [
+    { path: '**', component: PageNotFoundComponent },
+    { path: 'work-pieces', component: WorkPiecesComponent },
+    { path: 'resume', component: ResumeComponent }
+];
+let AppModule = class AppModule {
+};
+AppModule = tslib_1.__decorate([
+    NgModule({
+        declarations: [
+            AppComponent,
+            NavComponent,
+            ResumeComponent,
+            WorkPiecesComponent,
+            HomeComponent,
+            BackgroundImageComponent,
+            PageNotFoundComponent
+        ],
+        imports: [
+            BrowserModule,
+            AppRoutingModule,
+            NgxExtendedPdfViewerModule,
+        ],
+        providers: [],
+        bootstrap: [AppComponent],
+    })
+], AppModule);
 export { AppModule };
 //# sourceMappingURL=app.module.js.map

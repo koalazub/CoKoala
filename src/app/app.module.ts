@@ -9,8 +9,16 @@ import {WorkPiecesComponent} from './work-pieces/work-pieces.component';
 import {HomeComponent} from './home/home.component';
 import {NgxExtendedPdfViewerModule} from 'ngx-extended-pdf-viewer';
 import {BackgroundImageComponent} from './background-image/background-image.component';
-import {MatButtonModule, MatCardModule} from '@angular/material';
+import {Routes} from '@angular/router';
+import {PageNotFoundComponent} from './page-not-found/page-not-found.component';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
+const appRoutes: Routes = [
+  {path: '**', component: PageNotFoundComponent},
+  {path: 'work-pieces', component: WorkPiecesComponent},
+  {path: 'resume', component: ResumeComponent}
+
+];
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,16 +26,18 @@ import {MatButtonModule, MatCardModule} from '@angular/material';
     ResumeComponent,
     WorkPiecesComponent,
     HomeComponent,
-    BackgroundImageComponent
+    BackgroundImageComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     NgxExtendedPdfViewerModule,
-    MatButtonModule,
-    MatCardModule,
+    BrowserAnimationsModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+
 })
-export class AppModule { }
+export class AppModule {
+}

@@ -1,24 +1,24 @@
 import {async, TestBed} from '@angular/core/testing';
 import {BackgroundImageComponent} from './background-image.component';
 
-describe('BackgroundImageComponent', function ()
+describe('BackgroundImageComponent', () =>
 {
-  var component;
-  var fixture;
-  beforeEach(async(function ()
+  let component;
+  let fixture;
+  beforeEach(async(() =>
   {
     TestBed.configureTestingModule({
         declarations: [BackgroundImageComponent]
       })
       .compileComponents();
   }));
-  beforeEach(function ()
+  beforeEach(() =>
   {
     fixture = TestBed.createComponent(BackgroundImageComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
-  it('should create', function ()
+  it('should create', () =>
   {
     expect(component).toBeTruthy();
   });

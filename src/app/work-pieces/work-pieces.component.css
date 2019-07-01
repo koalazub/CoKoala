@@ -14,8 +14,17 @@
 
 .WorkGrid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+  grid-template-rows: auto auto;
+}
+
+.ContrastTextBackground {
+  background-color: orange;
+  opacity: 0.3;
+}
+
+.workPieceFont {
+  color: black;
 }
 
 /*# sourceMappingURL=work-pieces.component.css.map */

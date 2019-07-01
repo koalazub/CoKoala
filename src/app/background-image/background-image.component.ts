@@ -15,9 +15,9 @@ export class BackgroundImageComponent implements OnInit {
   ngOnInit() {
   }
 
-  public addGreyBG(string) {
+  public addGreyBG(image: string) {
     return {
-      'background-image': string
+      'background-image': image
     };
   }
 

@@ -1,21 +1,24 @@
 import {Component} from '@angular/core';
 import * as tslib_1 from "tslib";
 
-var HomeComponent = /** @class */ (function () {
-    function HomeComponent() {
-      this.baseBG = "../../assets/images/DirtyGreyBG.jpg";
+let HomeComponent = class HomeComponent
+  {
+    constructor()
+      {
+        this.baseBG = '../assets/images/HomeBG.svg';
     }
-    HomeComponent.prototype.ngOnInit = function () {
-    };
-    HomeComponent = tslib_1.__decorate([
-        Component({
-            selector: 'app-home',
-            templateUrl: './home.component.html',
-            styleUrls: ['./home.component.scss']
-        }),
-        tslib_1.__metadata("design:paramtypes", [])
-    ], HomeComponent);
-    return HomeComponent;
-}());
+
+    ngOnInit()
+      {
+      }
+  };
+HomeComponent = tslib_1.__decorate([
+  Component({
+    selector: 'app-home',
+    templateUrl: './home.component.html',
+    styleUrls: ['./home.component.scss']
+  }),
+  tslib_1.__metadata("design:paramtypes", [])
+], HomeComponent);
 export { HomeComponent };
 //# sourceMappingURL=home.component.js.map

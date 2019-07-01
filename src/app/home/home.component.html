@@ -2,34 +2,42 @@
 </title>
 </head>
 
-<img alt="My Profile Picture" class="ImgCircle" src="../../assets/images/Profile.png">
-<div class="ExpandBody">
+<div [ngStyle]="{'background-image': 'url('+ baseBG + ')'}" class="contrastBG">
+  <div class="profileDivide">
+    <img alt="My Profile Picture" class="ImgCircle" src="../../assets/images/Profile.png">
 
-  <div class="BodyTextFormat">
-    <p>
-      Hello, hello! <br>My name is Ali and I’m a software developer in Melbourne. I’m currently on the
-      lookout for
-      meaningful work.</p>
-    <p>
-      I’m deeply passionate about the environment, which is why my friend and I have begun our journey to create a
-      sustainable aeroponics urban agriculture system (it’s a mouthful… we know).
-    </p>
-    <p>
-      I’ve worked on things from XR content to simulations and training in VR at Magic Industries. Since then
-      I’ve been focusing on bridging the gap between back and front-end development. I have a keen interest in the fields
-      of automation, game development and microcontrollers that specialise in utilising sensor equipment. These are my
-      passions, and they require me to pull up a chair and sometimes kick it away (gotta keep that posture correct
-      somehow!).
-    </p>
-    I enjoy bouldering and rock climbing and head outdoors the moment an opportunity arises. I am constantly working
-    towards a healthy mindset by being both physically and mentally active and ensuring I maintain a solid
-    equilibrium (our startup is called Eaqlibrium, the spelling was intentional!).
-    <p>
-      I am constantly looking for work that prioritises mental well-being, learning new skills and a growth mindset. If
-      you think that I might be a good fit - then please, shoot me an email!
-    </p>
+    <div class="SetBgParameters">
 
-    <br>
-    <p>Thanks for reading!</p>
-</div>
+      <div class="BodyTextFormat">
+        <p>Having worked as a software developer for over 2 years now, I now seek projects that are both meaningful
+          and value in terms of both educating myself and others.</p>
+        <p>
+          I have a passion for the environment, which has brought my friend and I together to create projects utilising
+          microcontrollers and run-of-the-mill hardware to grow crops using hydroponics and eventually – automating the
+          entire thing.
+        </p>
+        <p>During my time since graduating with a bachelor’s degree in game development – I worked at the XR
+          simulations and training firm Magic Industries. The projects I worked on included things from UX,
+          game mechanics, data management liaising with teams of other skillsets such as game designers, artists,
+          sound engineers and reporting to the project manager directly. </p>
+        <p>I used game engines and C# to build the tools necessary to complete the project as well as communication
+          tools such as Slack, email and all the other entertaining things that excite project managers and the
+          like.</p>
+        <p>Since finishing up at Magic, I’ve sought to upskill in software development areas that I feel are
+          imperative to a productive work cycle. Learning HTML, CSS and vanilla JS has been quite fun and enlightening,
+          and I’ve been playing with frameworks like Angular (that this portfolio site uses) and VueJS. </p>
+        Outside of frontend
+        <p>development – I’ve been touching on Machine Learning and AI and have begun using TensorFlow and Python
+          as a steppingstone to understanding the subjects above. I’m looking to apply what I’ve
+          learned so that I can better understand the processes involved. I’m currently seeking projects and work
+          in any of these fields and would love the opportunity to be mentored using the industry’s best practices so
+          that I can continue to deliver at a standard that is above acceptable.</p>
+
+        I enjoy being active, I boulder and rock climb a lot and love conversing over topics that interest me, such as
+        ethics and technology. If you feel that I might be a good fit for your team, then, have a look at my GitHub,
+        HackerRank et al. and see what work I’ve contributed to.
+        <p>Thanks for reading!</p>
+      </div>
+    </div>
+  </div>
 </div>
