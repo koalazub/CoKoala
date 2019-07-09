@@ -1,0 +1,21 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1"
+     preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+  <defs>
+    <image id="Artboard_1_svg_Layer_1__Image_" x="0" y="0" width="1921" height="1080"
+           xlink:href="./images/Artboard_1_svg_Layer_1__Image_.png"/>
+
+    <image id="Artboard_1_svg_Layer_1__Image__0" x="0" y="0" width="3410" height="3406"
+           xlink:href="./images/Artboard_1_svg_Layer_1__Image__0.png"/>
+  </defs>
+
+  <g transform="matrix( 0.9994659423828125, 0, 0, 0.9994659423828125, 0.6,0.3) ">
+    <use xlink:href="#Artboard_1_svg_Layer_1__Image_"/>
+  </g>
+
+  <g
+    transform="matrix( -0.9825592041015625, -0.182708740234375, 0.182708740234375, -0.9825592041015625, 327.3,1015.55) ">
+    <g transform="matrix( 0.23956298828125, 0, 0, 0.23956298828125, 0,0) ">
+      <use xlink:href="#Artboard_1_svg_Layer_1__Image__0"/>
+    </g>
+  </g>
+</svg>

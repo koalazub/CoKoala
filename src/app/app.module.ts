@@ -14,9 +14,9 @@ import {PageNotFoundComponent} from './page-not-found/page-not-found.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 const appRoutes: Routes = [
-  {path: '**', component: PageNotFoundComponent},
   {path: 'work-pieces', component: WorkPiecesComponent},
-  {path: 'resume', component: ResumeComponent}
+  {path: 'resume', component: ResumeComponent},
+  {path: '**', component: PageNotFoundComponent},
 
 ];
 @NgModule({

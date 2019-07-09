@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" viewBox="0 0 80.1 64.15"
+     xmlns="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>LinkedInHover</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>.cls-1{fill:#45082f;}</style>
+  </defs>
+  <title>LinkedInHover</title>
+  <g data-name="Layer 2">
+    <g data-name="Layer 1">
+      <path class="cls-1"
+            d="M66.74,56.13h-10V41.24c0-3.54-.09-8.11-6.19-8.11S43.39,37,43.39,41V56.13L30,53.46V24.06h10V29.4h.16c1.66-2.43,5.69-5,11.71-5,12.51,0,14.83,6.41,14.83,14.74v17ZM17,19.87c-3.82,0-6.89-2.48-6.89-5.52S13.15,8.83,17,8.83s6.88,2.48,6.88,5.52S20.77,19.87,17,19.87Zm6.39,33.59H10V24.06H23.36ZM74.17,0H5.91C2.64,0,0,2.07,0,4.62V59.53c0,2.55,2.64,4.62,5.91,4.62H74.16c3.27,0,5.94-2.07,5.94-4.62V4.62C80.1,2.07,77.43,0,74.16,0Z"/>
+    </g>
+  </g>
+</svg>
