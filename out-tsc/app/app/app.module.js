@@ -1,5 +1,6 @@
 import {NgModule} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {NgxExtendedPdfViewerModule} from 'ngx-extended-pdf-viewer';
 import * as tslib_1 from "tslib";
 import {AppRoutingModule} from './app-routing.module';
@@ -34,6 +35,7 @@ AppModule = tslib_1.__decorate([
       BrowserModule,
       AppRoutingModule,
       NgxExtendedPdfViewerModule,
+      BrowserAnimationsModule,
     ],
     providers: [],
     bootstrap: [AppComponent],

@@ -1,10 +1,1 @@
-{
-  "version": 3,
-  "sourceRoot": "",
-  "sources": [
-    "resume.component.scss"
-  ],
-  "names": [],
-  "mappings": "AAAA;EACE;EACA",
-  "file": "resume.component.css"
-}
+{"version":3,"sourceRoot":"","sources":["resume.component.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE","file":"resume.component.css"}

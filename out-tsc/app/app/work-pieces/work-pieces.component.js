@@ -5,8 +5,8 @@ let WorkPiecesComponent = class WorkPiecesComponent
   {
     constructor()
       {
+        this.baseBG = '../assets/images/HomeBG.svg';
         this.ConstructionSrc = '../../assets/images/CoKoala_logo_06_B&W03.png';
-        this.baseBG = '../assets/images/DirtyGreyBG.jpg';
       }
 
     ngOnInit()

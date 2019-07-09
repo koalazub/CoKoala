@@ -16,9 +16,7 @@ a {
   color: #fefffe;
 }
 
-.ImgCircle {
-  float: left;
-  padding: 5%;
+.ProfileBorderCircle {
   border-radius: 30%;
 }
 
@@ -27,26 +25,35 @@ a {
   src: url("/assets/Font/Helvetica Now Display Black.otf");
 }
 .BodyTextFormat {
-  padding: 20% 20%;
+  padding: 10% 10%;
   z-index: 10;
   text-align: left;
   color: #fefffe;
 }
 
-.SetBgParameters {
-  height: 100%;
-  width: 100%;
-  background: no-repeat fixed center;
+h1 {
+  padding: 0;
+  text-align: center;
+  font-size: 6rem;
 }
 
-h1 {
+.HeadingFont {
+  padding: 10%;
   text-align: center;
-  font-size: 10rem;
+  font-size: 5.5rem;
 }
 
 main {
   text-align: center;
   position: relative;
+}
+
+.contrastBG {
+  height: 100%;
+  width: 100%;
+  background: no-repeat fixed center;
+  position: absolute;
+  background-size: cover;
 }
 
 /*# sourceMappingURL=styles.css.map */

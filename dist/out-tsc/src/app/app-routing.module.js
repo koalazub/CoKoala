@@ -6,8 +6,8 @@ import { ResumeComponent } from './resume/resume.component';
 import { WorkPiecesComponent } from './work-pieces/work-pieces.component';
 const routes = [
     { path: '', component: HomeComponent },
-    { path: 'work-pieces', component: WorkPiecesComponent },
-    { path: 'resume', component: ResumeComponent },
+    { path: 'work-pieces', component: WorkPiecesComponent, data: { animation: 'isRight' } },
+    { path: 'resume', component: ResumeComponent, data: { animation: 'isLeft' } },
 ];
 let AppRoutingModule = class AppRoutingModule {
 };

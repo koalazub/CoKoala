@@ -15,6 +15,7 @@ import {fader} from '../../route-animations';
 
 
 export class ResumeComponent implements OnInit {
+  baseBG = '../assets/images/HomeBG.svg';
   constructor() {
   }
 

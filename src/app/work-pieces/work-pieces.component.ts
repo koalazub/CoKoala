@@ -6,10 +6,9 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./work-pieces.component.scss']
 })
 export class WorkPiecesComponent implements OnInit {
-
+  baseBG = '../assets/images/HomeBG.svg';
   ConstructionSrc = '../../assets/images/CoKoala_logo_06_B&W03.png';
   PortfolioOverview: 'Portfolio Overview';
-  public baseBG = '../assets/images/DirtyGreyBG.jpg';
 
   constructor() {
   }

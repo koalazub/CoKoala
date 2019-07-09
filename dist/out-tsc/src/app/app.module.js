@@ -10,6 +10,7 @@ import { HomeComponent } from './home/home.component';
 import { NgxExtendedPdfViewerModule } from 'ngx-extended-pdf-viewer';
 import { BackgroundImageComponent } from './background-image/background-image.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 const appRoutes = [
     { path: '**', component: PageNotFoundComponent },
     { path: 'work-pieces', component: WorkPiecesComponent },
@@ -32,6 +33,7 @@ AppModule = tslib_1.__decorate([
             BrowserModule,
             AppRoutingModule,
             NgxExtendedPdfViewerModule,
+            BrowserAnimationsModule,
         ],
         providers: [],
         bootstrap: [AppComponent],
