@@ -9,7 +9,7 @@ export class WorkPiecesComponent implements OnInit {
   baseBG = '../assets/images/HomeBG.svg';
   ConstructionSrc = '../../assets/images/CoKoala_logo_06_B&W03.png';
   PortfolioOverview: 'Portfolio Overview';
-
+  CSvReader: '../../assets/images/CSvReader.png';
   constructor() {
   }
 
